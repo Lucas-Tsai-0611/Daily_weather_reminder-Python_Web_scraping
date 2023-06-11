@@ -6,7 +6,7 @@ This is a simple web scaping code combine Line Notify and crontab to tell the us
 ## Step
 1. Go to https://pweb.cwb.gov.tw/CWBMEMBER3/ apply for membership.
 2. Login to https://opendata.cwb.gov.tw/user/authkey find API authorization code and get the authorization code to instead authorization code in notify.py.
-3. Go to Line Notify https://notify-bot.line.me/zh_TW/ to issue tokens and instead token in notify.py
+3. Go to Line Notify https://notify-bot.line.me/zh_TW/ to issue token and instead token in notify.py
 4. Open terminal and key crontab -e to set rutine to run notify every day.
 5. After enter crontab -e key    0 7 * * * Path Of Your Python Environment  Path of notify.py
 
