@@ -11,3 +11,7 @@ This is a simple web scaping code combine Line Notify and crontab to tell the us
 5. After enter crontab -e key    0 7 * * * Path Of Your Python Environment  Path of notify.py
 
 ## Features
+
+
+## Reference Site
+1. https://zhuanlan.zhihu.com/p/109739540
