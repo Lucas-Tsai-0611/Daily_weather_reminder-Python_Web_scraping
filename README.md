@@ -11,6 +11,7 @@ This is a simple web scaping code combine Line Notify and crontab to tell the us
 5. After enter crontab -e key    0 7 * * * Path Of Your Python Environment  Path of notify.py
 
 ## Features
+![IMG_2098](https://github.com/Lucas-Tsai-0611/Daily_weather_reminder-Python_Web_scraping/assets/81616595/6b53974c-97f8-46ad-93df-d81c94e762e9)
 
 
 ## Reference Site
